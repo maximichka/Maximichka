@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/maxim-bondarchuk/">Maxim Bondarchuk</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="[https://www.linkedin.com/in/maxim-bondarchuk/](https://www.linkedin.com/in/maxim-bondarchuk-69a3371bb/)">Maxim Bondarchuk</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Hey, I’m Maxim! I’m excited about cybersecurity and love learning by getting hands-on. I’m especially interested in vulnerability management and governance, risk, and compliance (GRC). Here, I share my projects, what I’m learning, and the progress I’m making along the way. Feel free to look around—glad you’re here!
 
