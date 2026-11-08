@@ -4,7 +4,7 @@ Hey, I’m Maxim! I’m excited about cybersecurity and love learning by getting
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]([https://github.com/joshcybertest/vulnerability-management-program](https://github.com/maximichka/vulnerability-management-program))**
+- **[Vulnerability Management Program Implementation](https://github.com/maximichka/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
