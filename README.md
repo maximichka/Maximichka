@@ -7,9 +7,6 @@ Hey, I’m Maxim! I’m excited about cybersecurity and love learning by getting
 - **[Vulnerability Management Program Implementation](https://github.com/maximichka/vulnerability-management-program-1)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
 
