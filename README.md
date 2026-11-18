@@ -9,6 +9,18 @@ Hey, I’m Maxim! I’m excited about cybersecurity and love learning by getting
 
 <hr/>
 
+## 📂 Projects
+
+### [GRC Risk Assessment – ISO/IEC 27001:2022](https://github.com/maximichka/grc-risk-assessment-iso27001)
+Simulated GRC assessment of a fictional healthcare clinic: risk register (8 risks), control assessment (10 controls), and corrective action plans, with every control mapped to ISO/IEC 27001:2022 Annex A.
+**Skills:** Risk assessment · Control testing · ISO 27001 · HIPAA · Corrective action planning
+
+### [Vulnerability Management Project](https://github.com/maximichka/Vulnerability-Management-Project)
+Built a vulnerability management program from scratch: policy, authenticated Tenable scans of an Azure Windows server, and PowerShell remediation that reduced findings 44% (45 → 25).
+**Skills:** Tenable/Nessus · PowerShell · Windows hardening · Policy development · Change management
+
+<hr/>
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
