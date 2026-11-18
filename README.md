@@ -4,8 +4,8 @@ Hey, I’m Maxim! I’m excited about cybersecurity and love learning by getting
 
 ## ⚠️ Vulnerability Management Projects
 
-- [Vulnerability Management Program Implementation](LINK-1)
-- [Programmatic Vulnerability Remediations](LINK-2)
+- [Vulnerability Management Program Implementation](https://github.com/maximichka/vulnerability-management-program-1)
+- [Programmatic Vulnerability Remediations](https://github.com/maximichka/programmatic-vulnerability-remediations)
 - [Vulnerability Management Project](https://github.com/maximichka/Vulnerability-Management-Project)
 
 <hr/>
@@ -15,7 +15,6 @@ Hey, I’m Maxim! I’m excited about cybersecurity and love learning by getting
 - [GRC Risk Assessment – ISO/IEC 27001:2022](https://github.com/maximichka/grc-risk-assessment-iso27001)
 
 <hr/>
-
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
