@@ -7,8 +7,7 @@ Hey, I’m Maxim! I’m excited about cybersecurity and love learning by getting
 - [Vulnerability Management Program Implementation](https://github.com/maximichka/vulnerability-management-program-1)
 - [Programmatic Vulnerability Remediations](https://github.com/maximichka/programmatic-vulnerability-remediations)
 - [Vulnerability Management Project](https://github.com/maximichka/Vulnerability-Management-Project)
-
-<hr/>
+- [Windows 11 STIG Remediation — 10 Security Fixes Using PowerShell](https://github.com/maximichka/Windows-11-stig-remediation)
 
 ## 🛡️ Governance, Risk & Compliance (GRC) Projects
 
